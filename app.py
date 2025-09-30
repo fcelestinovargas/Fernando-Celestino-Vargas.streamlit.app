@@ -32,7 +32,6 @@ st.info("✨ Mi objetivo es crecer cada día como profesional y aportar valor co
 # Sección de contacto
 st.subheader("📫 Contacto")
 st.write("Puedes comunicarte conmigo en:")
-st.markdown("- ✉️ Email: fernando.celestino@example.com")
 st.markdown("- 🌐 GitHub: [fcelestinovargas](https://github.com/fcelestinovargas)")
 
 # Pie de página
